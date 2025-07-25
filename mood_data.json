@@ -1,0 +1,80 @@
+{
+  "happy": {
+    "color": "gold3",
+    "ascii": "🌼🌸☀️🌼🌸",
+    "affirmations": [
+      "I radiate positivity and joy!",
+      "Today is full of beautiful possibilities 🌻",
+      "Happiness flows through me effortlessly 💛"
+    ],
+    "prompts": [
+      "What made you smile today?",
+      "Who brings sunshine to your day?"
+    ]
+  },
+  "anxious": {
+    "color": "light_sky_blue1",
+    "ascii": "☁️💙☁️💙",
+    "affirmations": [
+      "I am safe, calm, and grounded.",
+      "Inhale confidence, exhale doubt 🌬️",
+      "This feeling will pass, and I will rise again. ☁️"
+    ],
+    "prompts": [
+      "What is one small thing you can control right now?",
+      "What would you say to a friend feeling this way?"
+    ]
+  },
+  "sad": {
+    "color": "plum1",
+    "ascii": "🌸🫂🌸🫂",
+    "affirmations": [
+      "It’s okay to feel, healing begins here 💗",
+      "My emotions are valid and I honor them 💞",
+      "I deserve gentleness today and always 🌷"
+    ],
+    "prompts": [
+      "What's one thing you want to tell your heart?",
+      "How can you be kind to yourself right now?"
+    ]
+  },
+  "motivated": {
+    "color": "green",
+    "ascii": "🌿💪🍃✨",
+    "affirmations": [
+      "I am capable of amazing things 💼",
+      "Each step I take leads me closer to my dream 🚀",
+      "I am unstoppable when I believe in myself 🌟"
+    ],
+    "prompts": [
+      "What’s the one step you’re taking today?",
+      "What's driving your motivation right now?"
+    ]
+  },
+  "grateful": {
+    "color": "light_salmon1",
+    "ascii": "🌼🙏✨🌻",
+    "affirmations": [
+      "I am deeply thankful for all the little joys 🌼",
+      "Gratitude opens my heart to abundance 💛",
+      "Every breath I take is a gift 🎁"
+    ],
+    "prompts": [
+      "What's something today you're thankful for?",
+      "Who or what makes you feel most grateful?"
+    ]
+  },
+  "tired": {
+    "color": "medium_purple3",
+    "ascii": "💤🌙🛌☁️",
+    "affirmations": [
+      "Rest is productive too 💤",
+      "It’s okay to pause and breathe 🌙",
+      "I deserve rest without guilt 🤍"
+    ],
+    "prompts": [
+      "How can you offer yourself rest today?",
+      "What does your body need right now?"
+    ]
+  }
+}
